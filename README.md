@@ -25,5 +25,5 @@ This project predicts whether a telecom customer will churn (leave the service) 
 - Precision/Recall balanced performance
 
 ## 🔗 Links
-- [GitHub Repository](your-link-here)
+- [GitHub Repository](http://localhost:8888/notebooks/projects%2Fchurn.ipynb)
 - [Live Demo (Streamlit)](your-link-here)
